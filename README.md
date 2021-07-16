@@ -1,5 +1,6 @@
 # Data-Analysis-Projects
-In this repository i upload different projects of data analysis in ipynb format(Code writen in Python).
+In this repository I uploaded different projects of data analysis in ipynb format(Code writen in Python).
+The projects goal is practice data analysis techniques.
 
 ## Projects:
 ### 1. **Games Analysis**:<br> 
