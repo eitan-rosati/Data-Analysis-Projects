@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-In this repository I uploaded different projects of data analysis in ipynb format(Code writen in Python).
+In this repository I'll upload different projects of data analysis in ipynb format(Code writen in Python).
 The projects goal is practice data analysis techniques.
 
 ## Projects:
@@ -18,5 +18,5 @@ The projects goal is practice data analysis techniques.
    - Seaborn
 
    **files:** <br>
-   - games_analysis.ipynb<br>
+   - games_analysis.ipynb - a jupyter notebook that contain the whole code and conclusions analysis in the project. 
    - games.csv - a link to download the csv is in the project description(in the ipynb) 
