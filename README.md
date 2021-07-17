@@ -20,3 +20,6 @@ The projects goal is practice data analysis techniques.
    **files:** <br>
    - games_analysis.ipynb - a jupyter notebook that contain the whole code and conclusions analysis in the project. 
    - games.csv - a link to download the csv is in the project description(in the ipynb) 
+
+### 2. **Telecom company datasets analysis**
+ In this project we analysis the data of a telecom company - the different services the company have and the users data.
