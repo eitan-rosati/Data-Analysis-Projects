@@ -20,6 +20,18 @@ The projects goal is practice data analysis techniques.
    **files:** <br>
    - games_analysis.ipynb - a jupyter notebook that contain the whole code and conclusions analysis in the project. 
    - games.csv - a link to download the csv is in the project description(in the ipynb) 
+   - games_analysis.py - All the code in Py file
 
 ### 2. **Telecom company datasets analysis**
- In this project we analysis the data of a telecom company - the different services the company have and the users data.
+ In this project we analysis the data of a telecom company - the different services the company have and the users data. The project includes the following stages: 
+   - Data Processing
+   - Different analysis on our data
+   - Test Hypotheses
+
+   **Python Packages used in the project:**
+   - Pandas
+   - Numpy
+   - Matplotlib
+   - Scipy
+   - re(regex)
+  
