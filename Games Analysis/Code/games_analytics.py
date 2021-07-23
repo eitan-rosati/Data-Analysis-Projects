@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Integrated Project
-
 # ## Project Description <a class="anchor" id="chapter1"></a>
 
 # 1. **Project Description**
